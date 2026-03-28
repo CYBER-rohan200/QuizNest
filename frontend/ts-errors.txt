@@ -1,0 +1,5 @@
+src/App.tsx(14,34): error TS7016: Could not find a declaration file for module './services/dbTest'. 'D:/QuizNest (1)/QuizNest/QuizNest/src/services/dbTest.js' implicitly has an 'any' type.
+src/context/AuthContext.tsx(2,30): error TS1484: 'User' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/context/AuthContext.tsx(4,26): error TS7016: Could not find a declaration file for module '../services/firebase'. 'D:/QuizNest (1)/QuizNest/QuizNest/src/services/firebase.js' implicitly has an 'any' type.
+src/context/AuthContext.tsx(5,53): error TS7016: Could not find a declaration file for module '../services/authService'. 'D:/QuizNest (1)/QuizNest/QuizNest/src/services/authService.js' implicitly has an 'any' type.
+src/layouts/GameLayout.tsx(29,32): error TS2339: Property 'username' does not exist on type 'User'.

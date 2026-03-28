@@ -1,0 +1,17 @@
+{
+  "name": "quiznest-backend",
+  "version": "1.0.0",
+  "description": "Backend services and scripts for QuizNest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "translate": "node translateQuestions.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^13.0.1",
+    "express": "^4.21.2",
+    "cors": "^2.8.5"
+  }
+}
